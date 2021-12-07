@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hasło: 12345
-=======
-hasło: 54321
->>>>>>> 55555 (Rozwiazanie konfliktu wybór hasła)
+hasło: 55555
